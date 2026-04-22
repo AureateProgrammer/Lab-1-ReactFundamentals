@@ -1,6 +1,6 @@
 import type { ProductDisplayProps } from "../types"
 
-const product: ProductDisplayProps = {
+export const product: ProductDisplayProps = {
     product: {
         id: "1",
         name: "Sample Product",
